@@ -1,3 +1,3 @@
 # hello-world
-This repository is for learning hello world program
-hello my name is sachin kumar
+This is my first repository
+author-sachin kumar
